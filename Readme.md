@@ -5,7 +5,7 @@
     </h1>
 </div>
 <div align="center">
-    <img alt="mr3dh00d's Stats" src="https://github-readme-stats.vercel.app/api?username=mr3dh00d&count_private=true&theme=dark&show_icons=true&locale=en" align="center"/>
+    <img alt="mr3dh00d's Stats" src="https://github-readme-stats.vercel.app/api?username=mr3dh00d&count_private=true&theme=dark&hide_border=true&show_icons=true&locale=en" align="center"/>
     <img alt="mr3dh00d's Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr3dh00d&hide=html&theme=dark&hide_border=true&layout=compact" align="center"/>
 </div>
 <div align="center">
