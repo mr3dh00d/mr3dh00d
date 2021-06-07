@@ -19,13 +19,13 @@
 
 <div align="center">
     <h3 align="center">Social Media:</h3>
-    <a href="https://www.instagram.com/mr3dh00d/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png"/></a>
-    <a href="https://www.linkedin.com/in/dereck-pavez-600645181/" target="_blank"><img src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png"/></a>
+    <a href="https://www.instagram.com/mr3dh00d/" target="_blank"><img src="https://img.icons8.com/color/64/000000/instagram-new--v1.png"/></a>
+    <a href="https://www.linkedin.com/in/dereck-pavez-600645181/" target="_blank"><img src="https://img.icons8.com/color/64/000000/linkedin.png"/></a>
 </div>
  
  <div align="center">
     <h3 align="center">Languages and Softwars:</h3>
-    <img src="https://img.icons8.com/fluent/64/000000/laravel.png"/>
+    <img src="https://img.icons8.com/ios-filled/64/fa314a/laravel.png"/>
     <img src="https://img.icons8.com/color/64/000000/php.png"/>
     <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
     <img src="https://img.icons8.com/color/64/000000/css3.png"/>
@@ -35,12 +35,13 @@
     <img src="https://img.icons8.com/color/64/000000/python.png"/>
     <img src="https://img.icons8.com/color/64/000000/java-coffee-cup-logo.png"/>
     <img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/>
-    <img src="https://img.icons8.com/metro/64/000000/c.png"/>
+    <img src="https://img.icons8.com/color/64/000000/c-programming.png"/>
     <img src="https://img.icons8.com/color/64/000000/linux.png"/>
-    <img src="https://img.icons8.com/fluent/64/000000/github.png"/>
-    <img src="https://img.icons8.com/fluent/64/000000/figma.png"/>
+    <img src="https://img.icons8.com/color/64/000000/git.png"/>
+    <img src="https://img.icons8.com/color/64/000000/github--v1.png"/>
+    <img src="https://img.icons8.com/color/64/000000/figma.png"/>
     <img src="https://img.icons8.com/color/64/000000/office-365.png"/>
-    <img src="https://img.icons8.com/fluent/64/000000/visual-studio-code-insides.png"/>
+    <img src="https://img.icons8.com/color/64/000000/visual-studio-code-insides.png"/>
  </div>
 
 
