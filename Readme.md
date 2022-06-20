@@ -1,7 +1,7 @@
 <div align="center">
     <img src=".github/images/aru.png" width="150px"/>
     <h1>
-        Hello World! I'm <a href="https://github.com/mr3dh00d">mr3dh00d</a>
+        Hola Mundo! Soy <a href="https://github.com/mr3dh00d">mr3dh00d</a>
     </h1>
 </div>
 <div align="center">
@@ -10,22 +10,22 @@
 </div>
 <div align="center">
     <h2>
-        About me
+        Sobre mí
     </h2>
     <p>
-        Hello, I am Dereck Pavez, I study Civil Engineering in Computer Science at the Andrés Bello University, I like to learn new things and I am always willing to achieve my goals and go beyond what I set out to do, I like to work as a team, I have a good communication, I am willing to listen to the problems of others and I am excellent at learning in a self-taught way.
+        Hola, soy Dereck Pavez, estudio Ingeniería Civil en Informática en la Universidad Andrés Bello, me gusta aprender cosas nuevas y siempre estoy dispuesto a lograr mis metas e ir más allá de lo que me propongo, me gusta trabajar en equipo, tengo buena comunicación, estoy dispuesto a escuchar a los demás y soy excelente para aprender de forma autodidacta.
     </p>
 </div>
 
 <div align="center">
-    <h3 align="center">Social Media:</h3>
+    <h3 align="center">Redes sociales:</h3>
     <a href="https://www.instagram.com/mr3dh00d/" target="_blank"><img src="https://img.icons8.com/color/64/000000/instagram-new--v1.png"/></a>
     <a href="https://www.linkedin.com/in/dereck-pavez-600645181/" target="_blank"><img src="https://img.icons8.com/color/64/000000/linkedin.png"/></a>
     <a href="https://www.twitter.com/mr3dh00d/" target="_blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png"/></a>
 </div>
  
  <div align="center">
-    <h3 align="center">Languages and Softwars:</h3>
+    <h3 align="center">Lenguajes y Softwars:</h3>
     <img src="https://img.icons8.com/ios-filled/64/fa314a/laravel.png"/>
     <img src="https://img.icons8.com/color/64/000000/php.png"/>
     <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
