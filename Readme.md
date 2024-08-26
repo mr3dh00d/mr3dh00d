@@ -13,7 +13,7 @@
         Sobre mí
     </h2>
     <p>
-        Hola, soy Dereck Pavez, estudio Ingeniería Civil en Informática en la Universidad Andrés Bello, me gusta aprender cosas nuevas y siempre estoy dispuesto a lograr mis metas e ir más allá de lo que me propongo, me gusta trabajar en equipo, tengo buena comunicación, estoy dispuesto a escuchar a los demás y soy excelente para aprender de forma autodidacta.
+        Hola, soy Dereck Pavez, Ingeníero Civil Informático, me gusta aprender cosas nuevas y siempre estoy dispuesto a lograr mis metas e ir más allá de lo que me propongo, me gusta trabajar en equipo, tengo buena comunicación, estoy dispuesto a escuchar a los demás y soy excelente para aprender de forma autodidacta.
     </p>
 </div>
 
