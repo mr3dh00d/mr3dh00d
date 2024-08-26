@@ -20,7 +20,7 @@
 <div align="center">
     <h3 align="center">Redes sociales:</h3>
     <a href="https://www.instagram.com/gamanathor/" target="_blank"><img src="https://img.icons8.com/color/64/000000/instagram-new--v1.png"/></a>
-    <a href="https://www.linkedin.com/in/dereck-pavez-600645181/" target="_blank"><img src="https://img.icons8.com/color/64/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/dereck-pavez" target="_blank"><img src="https://img.icons8.com/color/64/000000/linkedin.png"/></a>
     <a href="https://www.twitter.com/mr3dh00d/" target="_blank"><img src="https://img.icons8.com/color/64/000000/twitter--v1.png"/></a>
 </div>
  
